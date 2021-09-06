@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45b465e2-4905-4953-805b-8c66c03f79f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1sAHk5lzBhbvwD1ap3jPxoHBeBy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rigester&amp;login" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\trm1\rigester&amp;login" />
+      <recent name="C:\xampp\htdocs\trm1\formsabtnam" />
+      <recent name="C:\xampp\htdocs\trm1\files" />
+      <recent name="C:\xampp\htdocs\trm1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\trm1" />
+      <recent name="C:\xampp\htdocs\trm1\mysql" />
+      <recent name="C:\xampp\htdocs\trm1\js\files" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b465e2-4905-4953-805b-8c66c03f79f5" name="Default Changelist" comment="" />
+      <created>1620308613521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620308613521</updated>
+      <workItem from="1620308614818" duration="1576000" />
+      <workItem from="1620310319050" duration="1458000" />
+      <workItem from="1620312291989" duration="1198000" />
+      <workItem from="1620316904123" duration="860000" />
+      <workItem from="1620318056702" duration="680000" />
+      <workItem from="1620318825705" duration="567000" />
+      <workItem from="1620319429230" duration="163000" />
+      <workItem from="1620319616198" duration="1213000" />
+      <workItem from="1620485171330" duration="32412000" />
+      <workItem from="1620811940996" duration="16823000" />
+      <workItem from="1620999253445" duration="10948000" />
+      <workItem from="1622109843734" duration="149000" />
+      <workItem from="1622120017720" duration="26170000" />
+      <workItem from="1622276465384" duration="4375000" />
+      <workItem from="1623254109249" duration="1165000" />
+      <workItem from="1623676960565" duration="13287000" />
+      <workItem from="1623850382651" duration="10004000" />
+      <workItem from="1624184265877" duration="6963000" />
+      <workItem from="1624198293015" duration="21610000" />
+      <workItem from="1624359934367" duration="1302000" />
+      <workItem from="1624866967823" duration="38298000" />
+      <workItem from="1629649042947" duration="6144000" />
+      <workItem from="1629658785439" duration="1192000" />
+      <workItem from="1629660740448" duration="9463000" />
+      <workItem from="1630290306026" duration="1607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
